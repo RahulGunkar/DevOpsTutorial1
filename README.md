@@ -1,2 +1,2 @@
 # DevOpsTutorial1
-Full Stack App using DJango
+Birth-Certificate-Update-Automation-Utility
