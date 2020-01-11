@@ -1,9 +1,9 @@
-name: Sample Pipeline CI and CD
+name: Sample Pipeline CI/CD
 
 on: [push]
 
 jobs:
-  build python app:
+  build_python_app:
 
     runs-on: ubuntu-latest
     strategy:
